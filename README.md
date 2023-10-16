@@ -9,7 +9,7 @@ I am Machine Learning and Deep Learning enthusiast currently pursuing a Bachelor
 - 📫 How to reach me **himanshupatil829@gmail.com**
 
 - ✏️ I am currently working on
-  1. **A One Pixel Attack MOdule that allows you train your model with Adversarial Robustness**\
+  1. **A One Pixel Attack Module that allows you train your model with Adversarial Robustness in the training loop itself**\
   2. **A Reinforcement Learning Agent for the Chain Reaction game**
 
 - ⚡ I am enthusiastic about **Computer Vision, Deep Learning, Natural Language Processing, Reinforcement Learning and their applications**
