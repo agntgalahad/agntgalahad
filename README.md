@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Himanshu Patil</h1>
 <h3 align="center">ML Enthusiast | Enthusiastic Networker</h3>
 
-- 🌱 I’m currently learning **Deep Learning, GANs, Transformers**
+- 🌱 I’m currently learning **Adversarial Attacks, Stable Baselines for environment creation for RL Agents**
 
-- 💬 Ask me about **TensorFlow, Keras, CNNs**
+- 💬 Ask me about **CNNs, Adversarial Attacks, PyTorch, Generative AI**
 
 - 📫 How to reach me **himanshupatil829@gmail.com**
 
-- ⚡ I am enthusiastic about **Machine Learning, Computer Vision, Deep Learning**
+- ✏️ I am currently working on\
+  **A One Pixel Attack that allows you train your model with Adversarial Robustness**\
+  **A RL Agent for Chain Reaction**
+
+- ⚡ I am enthusiastic about **Computer Vision, Deep Learning, Natural Language Processing, Reinforcement Learning and their applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
