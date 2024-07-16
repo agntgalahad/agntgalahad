@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Patil</h1>
-<h3 align="center">DL Enthusiast | Enthusiastic Networker</h3>
+<h3 align="center">DL Researcher | Enthusiastic Networker</h3>
 I am Machine Learning and Deep Learning enthusiast currently pursuing a Bachelor's in Computer Science. Aspiring to continue my academic journey with a Master's degree, my passion lies in conducting research and publishing compelling papers in the field of Machine Learning. 
 
 - 🌱 I’m currently learning **Adversarial Attacks, Stable Baselines for environment creation for RL Agents**
