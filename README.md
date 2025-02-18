@@ -6,7 +6,9 @@ Currently, I’m working at IIT Bombay under the guidance of Prof. Ganesh Ramakr
 
 Combining my computer science background with hardware-driven applications led me to robotics. I'm aiming to pursue my Master's in Robotics to solve real-world challenges and push the boundaries of innovation in this field.
 
-- 🌟 **Current Projects**: Drones with LiDAR for SLAM.
+I also regularly write blogs about my current projects and intriguing topics related to robotics. I encourage you to give them a read [HERE](https://agntgalahad.github.io/blogs/)!!
+
+- 🌟 **Current Projects**: Drones equipped with LiDAR for SLAM.
 - 📫 How to reach me **himanshupatil829@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
