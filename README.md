@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Himanshu Patil</h1>
-<h3 align="center">DL Researcher | Enthusiastic Networker</h3>
-I am Machine Learning and Deep Learning enthusiast currently pursuing a Bachelor's in Computer Science. Aspiring to continue my academic journey with a Master's degree, my passion lies in conducting research and publishing compelling papers in the field of Machine Learning. 
+<h3 align="center">DL Researcher | Robotics Enthusiast</h3>
+I’m a Computer Science student focusing on Robotics, Machine Learning, and Computer Vision.
 
-- 🌱 I’m currently learning **Adversarial Attacks, Stable Baselines for environment creation for RL Agents**
+Currently, I’m working at IIT Bombay under the guidance of Prof. Ganesh Ramakrishnan, developing cutting-edge Computer Vision algorithms for drones. My fascination with flight and the ability to access previously unreachable areas drives my passion for drone technology and autonomous navigation using techniques like SLAM.
 
-- 💬 Ask me about **CNNs, Transformers, Adversarial Attacks, PyTorch, Generative AI, Explainable AI**
+Combining my computer science background with hardware-driven applications led me to robotics. I'm aiming to pursue my Master's in Robotics to solve real-world challenges and push the boundaries of innovation in this field.
 
+- 🌟 **Current Projects**: Drones with LiDAR for SLAM.
 - 📫 How to reach me **himanshupatil829@gmail.com**
-
-- ✏️ I am currently working on
-  1. **An Adversarial Attack Robustness Module that allows you train your CNN model with Adversarial Robustness**
-  2. **A Reinforcement Learning Agent for the Chain Reaction game**
-
-- ⚡ I am enthusiastic about **Computer Vision, Deep Learning, Natural Language Processing, Reinforcement Learning and their applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
