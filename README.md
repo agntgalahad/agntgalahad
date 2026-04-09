@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Himanshu Patil</h1>
+<h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">DL Researcher | Robotics Enthusiast</h3>
 I’m a Computer Science graduate focusing on Robotics, Machine Learning, and Computer Vision.
 
-Currently, I’m working at IIT Bombay under the guidance of Prof. Ganesh Ramakrishnan, developing cutting-edge Computer Vision algorithms for drones. My fascination with flight and the ability to access previously unreachable areas drives my passion for drone technology and autonomous navigation using techniques like SLAM.
+Currently, I’m working at IIT Bombay under the guidance of Prof. Ganesh Ramakrishnan, Prof. Rohit Saluja & Prof. Jaideep Joshi developing cutting-edge Computer Vision algorithms for drones. My fascination with flight and the ability to access previously unreachable areas drives my passion for drone technology and autonomous navigation using techniques like SLAM.
 
 Combining my computer science background with hardware-driven applications led me to robotics. I'm aiming to pursue my PhD's in Robotics to solve real-world challenges and push the boundaries of innovation in this field.
 
